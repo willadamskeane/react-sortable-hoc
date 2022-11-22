@@ -107,7 +107,7 @@
     "stack-source-map": "^1.0.4",
     "style-loader": "^0.13.1",
     "webpack": "^1.9.11",
-    "webpack-dashboard": "^0.2.1",
+    "webpack-dashboard": "^3.3.7",
     "webpack-dev-middleware": "^1.2.0",
     "webpack-hot-middleware": "^2.9.1",
     "yargs": "^4.7.1"
